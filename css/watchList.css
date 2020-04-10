@@ -1,0 +1,32 @@
+html, body{
+	height: 100%;
+	width : 100%;
+	font-size: 1em;
+	font-size: 1vw;
+	font-size: 2vh;
+}
+.jumbotron{
+	margin-top: 2%;
+	padding-top: 2%;
+}
+table{
+	margin-top: 2%;
+}
+th,td{
+	text-align: center;
+}
+.bts{
+	width: 25%;
+	background-color: #ab2703;
+	color: white;
+}
+.mydiv{
+	display: inline-block;
+}
+.mleft{
+	margin-left: 29%;
+}
+.mydiv2{
+	display: inline-block;
+	width: 40%;
+}

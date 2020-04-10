@@ -1,0 +1,36 @@
+html, body{
+	height: 100%;
+	width : 100%;
+	font-size: 1em;
+	font-size: 1vw;
+	font-size: 2vh;
+}
+.container{
+	min-width: 100%;
+	padding-right: 0%;
+	padding-left: 0%;
+}
+h1{
+	text-align: center;
+	margin-top: 5%;
+}
+.jumbotron{
+	width: 50%;
+	margin: 0 auto;
+	margin-top: 5%;
+	padding-top: 2%;
+	padding-bottom: 1%;
+}
+.form-group{
+	width: 50%;
+}
+.form-control{
+	width: 100%;
+}
+.fullLen{
+	width: 100%;
+}
+#submit{
+	background-color: #ab2703;
+	color: white;
+}

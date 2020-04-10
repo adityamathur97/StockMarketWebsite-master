@@ -1,0 +1,28 @@
+html, body{
+	height: 100%;
+	width : 100%;
+	font-size: 1em;
+	font-size: 1vw;
+	font-size: 2vh;
+}
+#submit{
+	background-color: #ab2703;
+	width: 50%;
+	margin: 0 auto;
+	color: white;
+}
+hr{
+	width: 80%;
+}
+h1{
+	margin-top: 2%;
+	text-align: center;
+}
+form{
+	width: 75%;
+	margin: 0 auto;
+}
+#forgotPass{
+	text-align: right;
+	margin-left: 72%;
+}
